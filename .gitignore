@@ -4,5 +4,7 @@
 .vscode/
 .venv/
 
+data/clean_data.csv
+
 
 examples/
